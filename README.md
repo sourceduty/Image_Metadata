@@ -1,4 +1,4 @@
-![Image Metadata](https://github.com/sourceduty/Image_Metadata/assets/123030236/a6d2355a-0871-4251-83c8-974c9017f997)
+![Future_Car_with_Metadata](https://github.com/sourceduty/Image_Metadata/assets/123030236/0ae7474e-cf0e-4626-97a3-692171c54781)
 
 [Image Metadata](https://chatgpt.com/g/g-jxMVMIhnr-image-metadata) is a specialized version of ChatGPT designed to analyze and describe images through a detailed legend of metadata. This service involves examining an uploaded image and providing a comprehensive breakdown of its characteristics, such as title, description, aspect ratio, format, color model, color palette, compression ratio, and the overall mood the image conveys. The metadata legend is then neatly appended to the bottom of the image, creating a new version that combines the original visual content with its descriptive information. The legend is presented in a consistent style, with white text on a black background, using 10pt Arial font to ensure clarity and uniformity.
 
